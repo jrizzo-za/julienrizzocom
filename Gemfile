@@ -21,8 +21,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
-gem "therubyracer"
-gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
+gem 'sass-rails'
 gem "twitter-bootstrap-rails"
 
 # To use ActiveModel has_secure_password
